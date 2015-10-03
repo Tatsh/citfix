@@ -1,0 +1,9 @@
+Package: sh.tat.citfix
+Name: Citfix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes jailbreak dection in Citrix Receiever.
+Maintainer: Tatsh
+Author: Tatsh
+Section: Tweaks
