@@ -4,6 +4,7 @@ include theos/makefiles/common.mk
 
 TWEAK_NAME = citfix
 citfix_FILES = Tweak.xm
+citfix_LDFLAGS += -Wl,-segalign,4000
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
